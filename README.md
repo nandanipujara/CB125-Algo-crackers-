@@ -24,3 +24,5 @@ webpages related to languages, tradition, dance music art will have a vertical f
 ->after this the user will be recommended to take a quiz, if they accept to take the quiz, it will test their knowledge of India, by providing correct answers when they are wrong.
 
 -> the homepage end includes a feedback form where the user can contact the development team and give their feedback
+
+**as all team members are working on different parts of the homepage and webpages, the codes for each have been uploaded separately, these will be later integrated.
