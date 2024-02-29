@@ -14,7 +14,7 @@ the homepage offers diverse features to the user.
 
 ->following this is a brief summary of India, highlighting the diversity, heritage, and culture. 
 
-->The right side of this is accompanied by a responsive timeline design with 7 sections branching out on alternate sides for languages, tradition, history, architecture, cuisine, dance & music & art.
+->The right side of this is accompanied by a responsive timeline design with 6 sections branching out on alternate sides for languages, tradition, history, architecture, cuisine, dance & music & art.
 
 ->Each of these branch leads to a new webpage with more relevant information and images to that topic, exploring it in the light for the different states of India when It's relevant.
 
