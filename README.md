@@ -1,10 +1,11 @@
 # CB125-Algo-Crackers
-CBP26- Student Innovation- heritage and culture, ideas showcasing rich cultural heritage and tradition of India.
+CBP26- Student Innovation- heritage and culture, ideas that showcase the rich cultural heritage and traditions of India.
+
 Through this website, the user can explore the diverse culture and traditions of India, taking them through a creative and informative ride.
 This website will help the Indian users to be more in touch with their culture and to educate other users regarding the extraordinary country that India is.
 
 FLOWCHART:
-the homepage offers diverse features to the user. 
+the homepage offers a multitude features to the user. 
 
 ->the website begins with a navigation bar with direct links to different sections 
 
