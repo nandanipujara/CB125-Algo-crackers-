@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traditions of India</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .tradition-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            max-width: 1200px;
+            margin: 20px auto;
+        }
+
+        .tradition-item {
+            width: 48%;
+            margin-bottom: 20px;
+            overflow: hidden;
+            border: 1px solid #ddd;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .tradition-item img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .tradition-content {
+            padding: 20px;
+        }
+
+        h2,
+        p {
+            margin: 0;
+        }
+
+        .odd .tradition-content {
+            order: 2;
+        }
+
+        @media (max-width: 768px) {
+            .tradition-item {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="tradition-container">
+        <div class="tradition-item even">
+            <img src="kumbh.jpg" alt="Tradition 1 Image">
+            <div class="tradition-content">
+                <h2>Kumbh Mela</h2>
+                <p>The maha Kumbh Mela in India is attended by millions. </p>
+            </div>
+        </div>
+
+        <div class="tradition-item odd">
+            <div class="tradition-content">
+                <h2>Fasting</h2>
+                <p>Fasts or vrats are an integral part of indian community. They depict one's devotion and
+                     gratitude to The Gods. One of the major fasts observed in India are Karwa Chauth. It is customary
+                    in almost all Indian communities for married women to observe a fast for the long life of their husbands.
+                </p>
+            </div>
+            <img src="karwa-chauth-sringar.avif" alt="Tradition 2 Image">
+        </div>
+
+        <div class="tradition-item even">
+            <img src="image3.jpg" alt="Tradition 3 Image">
+            <div class="tradition-content">
+                <h2>Tradition 3</h2>
+                <p>info 3</p>
+            </div>
+        </div>
+
+        <div class="tradition-item odd">
+            <div class="tradition-content">
+                <h2>Tradition 4</h2>
+                <p>info 4</p>
+            </div>
+            <img src="image4.jpg" alt="Tradition 4 Image">
+        </div>
+
+        <div class="tradition-item even">
+            <img src="image5.jpg" alt="Tradition 5 Image">
+            <div class="tradition-content">
+                <h2>Tradition 5</h2>
+                <p>info 5</p>
+            </div>
+        </div>
+
+        <div class="tradition-item odd">
+            <div class="tradition-content">
+                <h2>Tradition 6</h2>
+                <p>info 6</p>
+            </div>
+            <img src="image6.jpg" alt="Tradition 6 Image">
+        </div>
+
+    </div>
+
+</body>
+
+</html>
